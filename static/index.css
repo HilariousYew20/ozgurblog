@@ -1,0 +1,36 @@
+#navbar div {
+    background-color: white;
+    align-items: right;
+}
+#navbar button {
+    background-color:black;
+    font: Arial;
+    color: white;
+    border: 1px solid;
+    padding : 15px;
+    border-color:black;
+}
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+#blog hr {
+    background-color: white;
+}
+#blog h2 {
+    background-color: black;
+    color :white;
+
+}
+#blog p1 {
+    background-color: black;
+    color :white;
+}
+#son p3 {
+    background-color: black;
+    color :white;
+    text-align: end;
+}
